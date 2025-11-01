@@ -79,7 +79,6 @@ visit the app folder and there is a dedication notebook with instructions on how
 
 ## 👤 Author
 
-  * **Student:** John Muhammed
-  * **Supervisor:** Pr. N. EL AKKAD
+  * **John Muhammed** 
   * **Course:** Machine Learning
 
